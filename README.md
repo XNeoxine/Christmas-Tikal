@@ -1,4 +1,4 @@
-# SA2-Christmas-Tikal
+# Christmas Tikal
 
 A mod for Sonic Adventure 2.
 
